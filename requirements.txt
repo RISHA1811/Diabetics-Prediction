@@ -1,5 +1,7 @@
-pandas 
-numpy 
-seaborn 
-sckit-learn 
+fastapi
+uvicorn[standard]
+pandas
+numpy
+seaborn
+scikit-learn
 matplotlib
